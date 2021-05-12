@@ -55,6 +55,7 @@ function kvadratYta(bredd, höjd) {
 console.log(kvadratYta(5, 8))
 */
 
+// Del 7
 const inputField1 = document.getElementById("johnAge");
 const inputField2 = document.getElementById("sarahAge");
 const Button = document.getElementById("click");
